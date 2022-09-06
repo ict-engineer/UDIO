@@ -1,0 +1,11 @@
+.rec .rec-dot {
+    background-color: #143442;
+    outline: none;
+    box-shadow: none;
+}
+
+.rec .rec-dot .rec-doc_active {
+    background-color: #fff;
+    outline: none;
+    box-shadow: none;
+}
